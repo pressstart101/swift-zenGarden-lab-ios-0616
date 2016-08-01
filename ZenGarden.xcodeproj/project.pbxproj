@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1B2D4ADF1D40F52D006FD5D1 /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1B2D4ADE1D40F52D006FD5D1 /* Storyboard.storyboard */; };
 		1BA85B0B1D2574EF008D42CE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BA85B0A1D2574EF008D42CE /* AppDelegate.swift */; };
 		1BA85B0D1D2574EF008D42CE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BA85B0C1D2574EF008D42CE /* ViewController.swift */; };
 		1BA85B121D2574EF008D42CE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1BA85B111D2574EF008D42CE /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1B2D4ADE1D40F52D006FD5D1 /* Storyboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Storyboard.storyboard; path = ../Storyboard.storyboard; sourceTree = "<group>"; };
 		1BA85B071D2574EF008D42CE /* ZenGarden.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ZenGarden.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1BA85B0A1D2574EF008D42CE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1BA85B0C1D2574EF008D42CE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			isa = PBXGroup;
 			children = (
 				1BA85B0A1D2574EF008D42CE /* AppDelegate.swift */,
+				1B2D4ADE1D40F52D006FD5D1 /* Storyboard.storyboard */,
 				1BA85B0C1D2574EF008D42CE /* ViewController.swift */,
 				1BA85B111D2574EF008D42CE /* Assets.xcassets */,
 				1BA85B131D2574EF008D42CE /* LaunchScreen.storyboard */,
@@ -121,6 +124,7 @@
 			files = (
 				1BA85B151D2574EF008D42CE /* LaunchScreen.storyboard in Resources */,
 				1BA85B121D2574EF008D42CE /* Assets.xcassets in Resources */,
+				1B2D4ADF1D40F52D006FD5D1 /* Storyboard.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
